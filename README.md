@@ -41,5 +41,3 @@ Valorizo **respeito, responsabilidade e honestidade**. Sou motivado a contribuir
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/dimatteodebortoli/  
 - Email: dimatteodb@gmail.com
-
-Se quiser ver algo específico primeiro (ex.: um dashboard, um notebook de ETL ou um pipeline em Python), me diga que eu priorizo e publico aqui!
