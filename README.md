@@ -29,7 +29,7 @@ Atuei como auxiliar administrativo e analista de dados, realizando atividades co
 ---
 
 ## 📂 Projetos
-Ainda não há projetos publicados aqui — em breve vou adicionar estudos de caso, notebooks e dashboards com exemplos práticos das minhas análises e automações.
+[Análise da produção pecuária do Paraná](https://github.com/dimatteofb/analise_da_producao_pecuaria_no_parana)
 
 ---
 
