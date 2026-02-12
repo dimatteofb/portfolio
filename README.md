@@ -13,9 +13,12 @@ Sou formado em **Ciência de Dados (Unopar)** e técnico em **Cooperativismo (IF
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação e cursos relevantes
 - **Ciência de Dados** — Unopar  
 - **Técnico em Cooperativismo** — IFPR
+- **Microsoft Excel avançado** — Fundação Bradesco
+- **Negociação e influência** — Escola Conquer
+- **Inteligência emocional 2.0** — Escola Conquer
 
 ---
 
@@ -30,6 +33,8 @@ Atuei como auxiliar administrativo e analista de dados, realizando atividades co
 
 ## 📂 Projetos
 [Análise da produção pecuária do Paraná](https://github.com/dimatteofb/analise_da_producao_pecuaria_no_parana)
+
+[Análise da emissão de CO2 per capita por país por ano - Google Data Analytics professional certificate](https://dimatteofb.github.io/portfolio/google_data_analytics_professional_certificate/tableau_countries_co2_emissions.html)
 
 ---
 
